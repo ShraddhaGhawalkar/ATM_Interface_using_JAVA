@@ -4,6 +4,9 @@ Submitted by- Shraddha Ghawalkar (linkedin - shraddhaghawalkar)
 
 This is a simple ATM Interface created using the Java programming language. The project features common operations such as Transaction History, Withdraw, Deposit, Quick Transfer, and Quit. The program is designed to be user-friendly and efficient, making use of Java Interfaces and other components to enhance functionality.
 
+## IDE used
+Eclipse 
+
 ## How to Use
 
 To use the ATM Interface, fork the repository to your own GitHub account and clone the repository to your local machine. Then, open it in your Java IDE of choice and run the Main.java file. Once the program is running, you will be presented with the main menu. From there, you can select from the available operations by entering the corresponding number and pressing Enter.
