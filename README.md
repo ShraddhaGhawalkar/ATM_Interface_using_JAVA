@@ -13,23 +13,23 @@ To use the ATM Interface, fork the repository to your own GitHub account and clo
 
 ## Features
 
-### Transaction History
+### 1. Transaction History
 
 The Transaction History feature allows you to view a list of your previous transactions, including the date, type of transaction, and amount.
 
-### Withdraw
+### 2. Withdraw
 
 The Withdraw feature allows you to withdraw funds from your account. You will be prompted to enter the amount you wish to withdraw, and the program will update your balance accordingly.
 
-### Deposit
+### 3. Deposit
 
 The Deposit feature allows you to deposit funds into your account. You will be prompted to enter the amount you wish to deposit, and the program will update your balance accordingly.
 
-### Quick Transfer
+### 4. Quick Transfer
 
 The Quick Transfer feature allows you to transfer funds between your accounts quickly and easily. You will be prompted to enter the account number you wish to transfer funds to, as well as the amount you wish to transfer.
 
-### Quit
+### 5. Quit
 
 The Quit feature allows you to exit the program.
 
