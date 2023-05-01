@@ -5,7 +5,7 @@ Submitted by- Shraddha Ghawalkar (linkedin - shraddhaghawalkar)
 This is a simple ATM Interface created using the Java programming language. The project features common operations such as Transaction History, Withdraw, Deposit, Quick Transfer, and Quit. The program is designed to be user-friendly and efficient, making use of Java Interfaces and other components to enhance functionality.
 
 ## IDE used
-Eclipse 
+Eclipse Version: 2022-12 (4.26.0)
 
 ## How to Use
 
