@@ -1,7 +1,9 @@
 # ATM_Interface_using_JAVA
 
-Sure, here's a sample README file for your GitHub repository:
 Submitted by- Shraddha Ghawalkar (linkedin - shraddhaghawalkar)
+
+Here's a sample README file for your GitHub repository:
+
 This is a simple ATM Interface created using the Java programming language. The project features common operations such as Transaction History, Withdraw, Deposit, Quick Transfer, and Quit. The program is designed to be user-friendly and efficient, making use of Java Interfaces and other components to enhance functionality.
 
 ## How to Use
